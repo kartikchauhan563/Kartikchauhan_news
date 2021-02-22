@@ -54,16 +54,7 @@
     <!-- END LOADER -->
 
     <div id="wrapper">
-        <div class="collapse top-search" id="collapseExample">
-            <div class="card card-block">
-                <div class="newsletter-widget text-center">
-                    <form class="form-inline">
-                        <input type="text" class="form-control" placeholder="What you are looking for?">
-                        <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
-                    </form>
-                </div>
-            </div>
-        </div>
+        
 
 
 
@@ -72,23 +63,11 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="logo">
-                        <a href="https://fontmeme.com/signature-fonts/"><img src="https://fontmeme.com/permalink/210221/b93bab63df3c6b078c3cd3dcba4204fa.png" alt="signature-fonts" border="0"></a>                        </div>
+                        <a href=""><img src="https://fontmeme.com/permalink/210221/b93bab63df3c6b078c3cd3dcba4204fa.png" alt="signature-fonts" border="0"></a>                        </div>
                     </div>
                 </div>
             </div>
         </div>
-
-        <header class="header">
-            <div class="container">
-                <nav class="navbar navbar-inverse navbar-toggleable-md">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cloapediamenu"
-                        aria-controls="cloapediamenu" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                </nav>
-            </div><!-- end container -->
-        </header><!-- end header -->
 
 
         <section class="section">
@@ -302,7 +281,7 @@
                     <div class="col-lg-8 offset-lg-2">
                         <div class="widget">
                             <div class="footer-text text-center">
-                            <a href="https://fontmeme.com/signature-fonts/"><img src="https://fontmeme.com/permalink/210221/b93bab63df3c6b078c3cd3dcba4204fa.png" alt="signature-fonts" border="0"></a>                                <!-- <p>Cloapedia is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p> -->
+                            <a href=""><img src="https://fontmeme.com/permalink/210221/b93bab63df3c6b078c3cd3dcba4204fa.png" alt="signature-fonts" border="0"></a>                                <!-- <p>Cloapedia is a personal blog for handcrafted, cameramade photography content, fashion styles from independent creatives around the world.</p> -->
                                 <br><br>
                                 <!-- <div class="newsletter-widget text-center">
                                     <form class="form-inline">
